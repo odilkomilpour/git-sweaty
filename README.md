@@ -14,7 +14,7 @@ Turn your Strava and Garmin activities into GitHub-style contribution graphs. Au
 
 **No coding required.**  
 
-View the Interactive [Activity Dashboard](https://odilkomilpour.github.io/git-sweaty/).  
+View the Interactive [Activity Dashboard](https://odilkomilpour.github.io/mountainrunner/).  
 Once setup is complete, this dashboard link will automatically update to your own GitHub Pages URL.
 
 
