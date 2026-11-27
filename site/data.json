@@ -1,6 +1,2351 @@
 {
   "activities": [
     {
+      "date": "2023-06-22",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-06-23",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-06-27",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-06-30",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-01",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-02",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-03",
+      "hour": 3,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-04",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-10",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-11",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-12",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-13",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-14",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-14",
+      "hour": 11,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-16",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-17",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-17",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-18",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-19",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-19",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-24",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-25",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-25",
+      "hour": 18,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-26",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-27",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-28",
+      "hour": 14,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-28",
+      "hour": 21,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-07-30",
+      "hour": 19,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-01",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-01",
+      "hour": 4,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-01",
+      "hour": 18,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-02",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-02",
+      "hour": 17,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-03",
+      "hour": 3,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-03",
+      "hour": 4,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-03",
+      "hour": 18,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-03",
+      "hour": 20,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-04",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-04",
+      "hour": 5,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-04",
+      "hour": 18,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-05",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-06",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-07",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-08",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-09",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-11",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-11",
+      "hour": 18,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-12",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-12",
+      "hour": 14,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-13",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-14",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-08-28",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-01",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-01",
+      "hour": 6,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-02",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-03",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-04",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-05",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-07",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-09",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-13",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-13",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-14",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-17",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-18",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-19",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-21",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-21",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-25",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-25",
+      "hour": 10,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-25",
+      "hour": 16,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-26",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-26",
+      "hour": 16,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-26",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-27",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-28",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-28",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-29",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-29",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-29",
+      "hour": 20,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-02",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-04",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-04",
+      "hour": 20,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-06",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-07",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-07",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-08",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-10",
+      "hour": 19,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-11",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-11",
+      "hour": 20,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-18",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-18",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-19",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-20",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-21",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-21",
+      "hour": 6,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-28",
+      "hour": 11,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-28",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-30",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-31",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-10-31",
+      "hour": 21,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-01",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-01",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-01",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-01",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-04",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-07",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-10",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-13",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-15",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-16",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-17",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-21",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-22",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-25",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-26",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-27",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-28",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-29",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-11-30",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-01",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-02",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-03",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-04",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-05",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-06",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-07",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-08",
+      "hour": 22,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-09",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-10",
+      "hour": 8,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-10",
+      "hour": 10,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-10",
+      "hour": 16,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-11",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-14",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-16",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-19",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-20",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-23",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-24",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-26",
+      "hour": 21,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-27",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-28",
+      "hour": 11,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-28",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-28",
+      "hour": 22,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-30",
+      "hour": 7,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-30",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2023-12-31",
+      "hour": 15,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2023
+    },
+    {
+      "date": "2024-01-05",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-05",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-06",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-06",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-10",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-11",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-12",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-13",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-14",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-17",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-18",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-18",
+      "hour": 22,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-19",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-19",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-20",
+      "hour": 15,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-20",
+      "hour": 17,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-20",
+      "hour": 17,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-21",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-24",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-25",
+      "hour": 22,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-26",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-27",
+      "hour": 6,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-27",
+      "hour": 8,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-29",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-30",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-01-31",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-01",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-02",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-03",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-05",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-06",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-08",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-08",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-08",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-09",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-10",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-11",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-13",
+      "hour": 17,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-13",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-15",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-16",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-21",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-22",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-23",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-24",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-02-29",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-01",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-02",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-03",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-04",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-04",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-05",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-06",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-07",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-08",
+      "hour": 6,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-08",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-09",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-10",
+      "hour": 15,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-10",
+      "hour": 23,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-11",
+      "hour": 13,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-11",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-12",
+      "hour": 21,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-12",
+      "hour": 22,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-13",
+      "hour": 17,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-13",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-14",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-15",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-16",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-17",
+      "hour": 14,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-17",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-17",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-18",
+      "hour": 1,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-18",
+      "hour": 22,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-19",
+      "hour": 11,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-21",
+      "hour": 17,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-26",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-27",
+      "hour": 22,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-31",
+      "hour": 10,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-03-31",
+      "hour": 14,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-01",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-02",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-03",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-05",
+      "hour": 11,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-05",
+      "hour": 16,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-07",
+      "hour": 13,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-13",
+      "hour": 15,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-13",
+      "hour": 16,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-14",
+      "hour": 15,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-15",
+      "hour": 17,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-16",
+      "hour": 19,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-16",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-17",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-18",
+      "hour": 10,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-19",
+      "hour": 12,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-20",
+      "hour": 19,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-21",
+      "hour": 6,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-21",
+      "hour": 17,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-25",
+      "hour": 23,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-27",
+      "hour": 15,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-27",
+      "hour": 15,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-28",
+      "hour": 1,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-29",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-04-30",
+      "hour": 22,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-01",
+      "hour": 17,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-06",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-07",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-08",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-09",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-10",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-12",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-13",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-14",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-15",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-19",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-19",
+      "hour": 17,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-20",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-21",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-22",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-23",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-24",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-24",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-25",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-25",
+      "hour": 6,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-25",
+      "hour": 8,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-25",
+      "hour": 18,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-25",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-25",
+      "hour": 21,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-26",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-26",
+      "hour": 19,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-27",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-27",
+      "hour": 20,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-28",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-28",
+      "hour": 17,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-28",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-29",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-30",
+      "hour": 18,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-30",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-31",
+      "hour": 17,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-05-31",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-01",
+      "hour": 11,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-01",
+      "hour": 18,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-02",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-03",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-04",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-06",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-07",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-07",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-08",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-08",
+      "hour": 6,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-08",
+      "hour": 7,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-09",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-09",
+      "hour": 15,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-09",
+      "hour": 19,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-10",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-11",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-12",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-12",
+      "hour": 20,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-14",
+      "hour": 23,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-15",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-15",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-21",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-21",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-22",
+      "hour": 4,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-22",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-22",
+      "hour": 7,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-23",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-25",
+      "hour": 14,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-25",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-27",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-28",
+      "hour": 11,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-28",
+      "hour": 22,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-29",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-29",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-29",
+      "hour": 7,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-29",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-06-30",
+      "hour": 21,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-07-02",
+      "hour": 14,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2024
+    },
+    {
+      "date": "2024-07-03",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-07-04",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-07-05",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-07-06",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-07-07",
+      "hour": 11,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-07-07",
+      "hour": 12,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-07-07",
+      "hour": 15,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-07-07",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-07-08",
+      "hour": 15,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-07-11",
+      "hour": 12,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
+      "date": "2024-07-11",
+      "hour": 14,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2024
+    },
+    {
       "date": "2024-07-12",
       "hour": 12,
       "subtype": "walking",
@@ -2192,6 +4537,13 @@
       "year": 2026
     },
     {
+      "date": "2026-04-16",
+      "hour": 16,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
       "date": "2026-04-18",
       "hour": 8,
       "subtype": "running",
@@ -2378,6 +4730,13 @@
       "hour": 16,
       "subtype": "running",
       "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 17,
+      "subtype": "cycling",
+      "type": "Ride",
       "year": 2026
     },
     {
@@ -2752,6 +5111,13 @@
       "year": 2026
     },
     {
+      "date": "2026-10-05",
+      "hour": 17,
+      "subtype": "cycling",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
       "date": "2026-10-07",
       "hour": 4,
       "subtype": "running",
@@ -2795,6 +5161,1153 @@
     }
   ],
   "aggregates": {
+    "2023": {
+      "Run": {
+        "2023-06-22": {
+          "activity_ids": [
+            "strava-9456370529"
+          ],
+          "count": 1,
+          "distance": 4290.0,
+          "elevation_gain": 30.0,
+          "moving_time": 1800.0
+        },
+        "2023-06-23": {
+          "activity_ids": [
+            "strava-9456467055"
+          ],
+          "count": 1,
+          "distance": 4290.0,
+          "elevation_gain": 29.0,
+          "moving_time": 1800.0
+        },
+        "2023-06-27": {
+          "activity_ids": [
+            "strava-9456424274"
+          ],
+          "count": 1,
+          "distance": 5800.0,
+          "elevation_gain": 41.0,
+          "moving_time": 2460.0
+        },
+        "2023-06-30": {
+          "activity_ids": [
+            "strava-9456309232"
+          ],
+          "count": 1,
+          "distance": 4290.0,
+          "elevation_gain": 34.0,
+          "moving_time": 1803.0
+        },
+        "2023-07-01": {
+          "activity_ids": [
+            "strava-9456263810"
+          ],
+          "count": 1,
+          "distance": 6430.0,
+          "elevation_gain": 46.0,
+          "moving_time": 2701.0
+        },
+        "2023-07-02": {
+          "activity_ids": [
+            "strava-9456343452"
+          ],
+          "count": 1,
+          "distance": 6430.0,
+          "elevation_gain": 40.0,
+          "moving_time": 2700.0
+        },
+        "2023-07-03": {
+          "activity_ids": [
+            "strava-9455565525"
+          ],
+          "count": 1,
+          "distance": 5820.0,
+          "elevation_gain": 45.0,
+          "moving_time": 2727.0
+        },
+        "2023-07-04": {
+          "activity_ids": [
+            "strava-9455580615"
+          ],
+          "count": 1,
+          "distance": 6140.0,
+          "elevation_gain": 54.0,
+          "moving_time": 2789.0
+        },
+        "2023-07-10": {
+          "activity_ids": [
+            "strava-9455593002"
+          ],
+          "count": 1,
+          "distance": 3080.0,
+          "elevation_gain": 41.0,
+          "moving_time": 1333.0
+        },
+        "2023-07-11": {
+          "activity_ids": [
+            "strava-9455604627"
+          ],
+          "count": 1,
+          "distance": 3700.0,
+          "elevation_gain": 31.0,
+          "moving_time": 1353.0
+        },
+        "2023-07-12": {
+          "activity_ids": [
+            "strava-9455616670"
+          ],
+          "count": 1,
+          "distance": 4160.0,
+          "elevation_gain": 67.0,
+          "moving_time": 1765.0
+        },
+        "2023-07-13": {
+          "activity_ids": [
+            "strava-9455628511"
+          ],
+          "count": 1,
+          "distance": 4310.0,
+          "elevation_gain": 30.0,
+          "moving_time": 1816.0
+        },
+        "2023-07-14": {
+          "activity_ids": [
+            "strava-9446784749"
+          ],
+          "count": 1,
+          "distance": 5366.8,
+          "elevation_gain": 41.2,
+          "moving_time": 2192.0
+        },
+        "2023-07-16": {
+          "activity_ids": [
+            "strava-9458683963"
+          ],
+          "count": 1,
+          "distance": 5251.9,
+          "elevation_gain": 25.7,
+          "moving_time": 2084.0
+        },
+        "2023-07-17": {
+          "activity_ids": [
+            "strava-9465305654",
+            "strava-9468633371"
+          ],
+          "count": 2,
+          "distance": 9355.8,
+          "elevation_gain": 47.5,
+          "moving_time": 3713.0
+        },
+        "2023-07-18": {
+          "activity_ids": [
+            "strava-9475262952"
+          ],
+          "count": 1,
+          "distance": 4043.7,
+          "elevation_gain": 45.5,
+          "moving_time": 1468.0
+        },
+        "2023-07-19": {
+          "activity_ids": [
+            "strava-9478200894",
+            "strava-9481971169"
+          ],
+          "count": 2,
+          "distance": 8539.2,
+          "elevation_gain": 73.6,
+          "moving_time": 3245.0
+        },
+        "2023-07-24": {
+          "activity_ids": [
+            "strava-9509613051"
+          ],
+          "count": 1,
+          "distance": 3344.8,
+          "elevation_gain": 17.5,
+          "moving_time": 1204.0
+        },
+        "2023-07-25": {
+          "activity_ids": [
+            "strava-9515379898"
+          ],
+          "count": 1,
+          "distance": 6225.9,
+          "elevation_gain": 28.0,
+          "moving_time": 2413.0
+        },
+        "2023-07-26": {
+          "activity_ids": [
+            "strava-9521965909"
+          ],
+          "count": 1,
+          "distance": 5606.6,
+          "elevation_gain": 28.1,
+          "moving_time": 2029.0
+        },
+        "2023-07-27": {
+          "activity_ids": [
+            "strava-9528436961"
+          ],
+          "count": 1,
+          "distance": 5284.6,
+          "elevation_gain": 24.7,
+          "moving_time": 1963.0
+        },
+        "2023-08-01": {
+          "activity_ids": [
+            "strava-9558887262"
+          ],
+          "count": 1,
+          "distance": 3424.4,
+          "elevation_gain": 18.8,
+          "moving_time": 1184.0
+        },
+        "2023-08-02": {
+          "activity_ids": [
+            "strava-9565758793"
+          ],
+          "count": 1,
+          "distance": 6392.4,
+          "elevation_gain": 27.1,
+          "moving_time": 2524.0
+        },
+        "2023-08-03": {
+          "activity_ids": [
+            "strava-9572073082"
+          ],
+          "count": 1,
+          "distance": 7232.2,
+          "elevation_gain": 34.3,
+          "moving_time": 2778.0
+        },
+        "2023-08-04": {
+          "activity_ids": [
+            "strava-9578519718"
+          ],
+          "count": 1,
+          "distance": 8337.0,
+          "elevation_gain": 43.2,
+          "moving_time": 3338.0
+        },
+        "2023-08-05": {
+          "activity_ids": [
+            "strava-9584337809"
+          ],
+          "count": 1,
+          "distance": 9320.4,
+          "elevation_gain": 49.0,
+          "moving_time": 3804.0
+        },
+        "2023-08-06": {
+          "activity_ids": [
+            "strava-9590645608"
+          ],
+          "count": 1,
+          "distance": 8536.7,
+          "elevation_gain": 35.8,
+          "moving_time": 3435.0
+        },
+        "2023-08-07": {
+          "activity_ids": [
+            "strava-9597113933"
+          ],
+          "count": 1,
+          "distance": 5050.6,
+          "elevation_gain": 22.9,
+          "moving_time": 2065.0
+        },
+        "2023-08-08": {
+          "activity_ids": [
+            "strava-9603167651"
+          ],
+          "count": 1,
+          "distance": 5323.1,
+          "elevation_gain": 34.5,
+          "moving_time": 2368.0
+        },
+        "2023-08-09": {
+          "activity_ids": [
+            "strava-9609895226"
+          ],
+          "count": 1,
+          "distance": 8414.2,
+          "elevation_gain": 55.6,
+          "moving_time": 3374.0
+        },
+        "2023-08-11": {
+          "activity_ids": [
+            "strava-9623409529"
+          ],
+          "count": 1,
+          "distance": 10111.8,
+          "elevation_gain": 70.4,
+          "moving_time": 4312.0
+        },
+        "2023-08-12": {
+          "activity_ids": [
+            "strava-9629338809"
+          ],
+          "count": 1,
+          "distance": 5115.1,
+          "elevation_gain": 20.5,
+          "moving_time": 2146.0
+        },
+        "2023-08-13": {
+          "activity_ids": [
+            "strava-9635861207"
+          ],
+          "count": 1,
+          "distance": 4862.9,
+          "elevation_gain": 23.0,
+          "moving_time": 1976.0
+        },
+        "2023-08-14": {
+          "activity_ids": [
+            "strava-9645577124"
+          ],
+          "count": 1,
+          "distance": 2170.6,
+          "elevation_gain": 12.3,
+          "moving_time": 983.0
+        },
+        "2023-08-28": {
+          "activity_ids": [
+            "strava-9737342555"
+          ],
+          "count": 1,
+          "distance": 854.2,
+          "elevation_gain": 8.1,
+          "moving_time": 335.0
+        },
+        "2023-09-01": {
+          "activity_ids": [
+            "strava-9759094451",
+            "strava-9759527660"
+          ],
+          "count": 2,
+          "distance": 5542.0,
+          "elevation_gain": 27.1,
+          "moving_time": 2136.0
+        },
+        "2023-09-02": {
+          "activity_ids": [
+            "strava-9764851461"
+          ],
+          "count": 1,
+          "distance": 5736.8,
+          "elevation_gain": 33.0,
+          "moving_time": 2119.0
+        },
+        "2023-09-03": {
+          "activity_ids": [
+            "strava-9771662892"
+          ],
+          "count": 1,
+          "distance": 6425.5,
+          "elevation_gain": 50.3,
+          "moving_time": 2485.0
+        },
+        "2023-09-04": {
+          "activity_ids": [
+            "strava-9778735948"
+          ],
+          "count": 1,
+          "distance": 8102.8,
+          "elevation_gain": 60.6,
+          "moving_time": 3156.0
+        },
+        "2023-09-05": {
+          "activity_ids": [
+            "strava-9785178625"
+          ],
+          "count": 1,
+          "distance": 7155.4,
+          "elevation_gain": 30.7,
+          "moving_time": 2814.0
+        },
+        "2023-09-07": {
+          "activity_ids": [
+            "strava-9798892635"
+          ],
+          "count": 1,
+          "distance": 7322.6,
+          "elevation_gain": 28.4,
+          "moving_time": 2838.0
+        },
+        "2023-09-09": {
+          "activity_ids": [
+            "strava-9815636537"
+          ],
+          "count": 1,
+          "distance": 1060.7,
+          "elevation_gain": 11.1,
+          "moving_time": 348.0
+        },
+        "2023-09-13": {
+          "activity_ids": [
+            "strava-10217442914",
+            "strava-9841531589"
+          ],
+          "count": 2,
+          "distance": 5840.299999999999,
+          "elevation_gain": 67.0,
+          "moving_time": 2413.0
+        },
+        "2023-09-14": {
+          "activity_ids": [
+            "strava-9848404783"
+          ],
+          "count": 1,
+          "distance": 3025.7,
+          "elevation_gain": 24.0,
+          "moving_time": 1070.0
+        },
+        "2023-09-17": {
+          "activity_ids": [
+            "strava-9868299896"
+          ],
+          "count": 1,
+          "distance": 7012.9,
+          "elevation_gain": 39.4,
+          "moving_time": 2746.0
+        },
+        "2023-09-18": {
+          "activity_ids": [
+            "strava-9873969657"
+          ],
+          "count": 1,
+          "distance": 5092.6,
+          "elevation_gain": 42.5,
+          "moving_time": 1921.0
+        },
+        "2023-09-19": {
+          "activity_ids": [
+            "strava-9880367435"
+          ],
+          "count": 1,
+          "distance": 9106.5,
+          "elevation_gain": 40.4,
+          "moving_time": 3604.0
+        },
+        "2023-09-21": {
+          "activity_ids": [
+            "strava-9893142694",
+            "strava-9893142862"
+          ],
+          "count": 2,
+          "distance": 3066.3,
+          "elevation_gain": 23.9,
+          "moving_time": 986.0
+        },
+        "2023-09-25": {
+          "activity_ids": [
+            "strava-9915093347"
+          ],
+          "count": 1,
+          "distance": 13527.1,
+          "elevation_gain": 92.4,
+          "moving_time": 5508.0
+        },
+        "2023-09-26": {
+          "activity_ids": [
+            "strava-9920856028",
+            "strava-9924231245"
+          ],
+          "count": 2,
+          "distance": 14061.7,
+          "elevation_gain": 79.5,
+          "moving_time": 5468.0
+        },
+        "2023-09-27": {
+          "activity_ids": [
+            "strava-9927683673"
+          ],
+          "count": 1,
+          "distance": 9035.3,
+          "elevation_gain": 41.4,
+          "moving_time": 3800.0
+        },
+        "2023-09-28": {
+          "activity_ids": [
+            "strava-9934286831",
+            "strava-9937865534"
+          ],
+          "count": 2,
+          "distance": 14015.6,
+          "elevation_gain": 87.1,
+          "moving_time": 5538.0
+        },
+        "2023-09-29": {
+          "activity_ids": [
+            "strava-9940289529",
+            "strava-9940357510"
+          ],
+          "count": 2,
+          "distance": 6176.200000000001,
+          "elevation_gain": 30.6,
+          "moving_time": 2333.0
+        },
+        "2023-10-02": {
+          "activity_ids": [
+            "strava-9962207179"
+          ],
+          "count": 1,
+          "distance": 1024.2,
+          "elevation_gain": 11.3,
+          "moving_time": 287.0
+        },
+        "2023-10-04": {
+          "activity_ids": [
+            "strava-9975574597"
+          ],
+          "count": 1,
+          "distance": 4269.2,
+          "elevation_gain": 28.1,
+          "moving_time": 1593.0
+        },
+        "2023-10-06": {
+          "activity_ids": [
+            "strava-9988055531"
+          ],
+          "count": 1,
+          "distance": 3023.6,
+          "elevation_gain": 23.8,
+          "moving_time": 967.0
+        },
+        "2023-10-07": {
+          "activity_ids": [
+            "strava-9994774821",
+            "strava-9994775138"
+          ],
+          "count": 2,
+          "distance": 11042.2,
+          "elevation_gain": 45.9,
+          "moving_time": 4336.0
+        },
+        "2023-10-08": {
+          "activity_ids": [
+            "strava-10001362707"
+          ],
+          "count": 1,
+          "distance": 6033.8,
+          "elevation_gain": 32.6,
+          "moving_time": 2223.0
+        },
+        "2023-10-11": {
+          "activity_ids": [
+            "strava-10019545675"
+          ],
+          "count": 1,
+          "distance": 5020.5,
+          "elevation_gain": 32.2,
+          "moving_time": 1833.0
+        },
+        "2023-10-18": {
+          "activity_ids": [
+            "strava-10058690489",
+            "strava-10061691467"
+          ],
+          "count": 2,
+          "distance": 8554.3,
+          "elevation_gain": 47.1,
+          "moving_time": 2765.0
+        },
+        "2023-10-19": {
+          "activity_ids": [
+            "strava-10064654745"
+          ],
+          "count": 1,
+          "distance": 15028.9,
+          "elevation_gain": 90.5,
+          "moving_time": 5685.0
+        },
+        "2023-10-20": {
+          "activity_ids": [
+            "strava-10072769295"
+          ],
+          "count": 1,
+          "distance": 6029.4,
+          "elevation_gain": 34.4,
+          "moving_time": 2123.0
+        },
+        "2023-10-21": {
+          "activity_ids": [
+            "strava-10075109310",
+            "strava-10075109379"
+          ],
+          "count": 2,
+          "distance": 12688.9,
+          "elevation_gain": 92.7,
+          "moving_time": 4800.0
+        },
+        "2023-10-28": {
+          "activity_ids": [
+            "strava-10116676046",
+            "strava-10120257148"
+          ],
+          "count": 2,
+          "distance": 14724.6,
+          "elevation_gain": 100.7,
+          "moving_time": 6127.0
+        },
+        "2023-10-30": {
+          "activity_ids": [
+            "strava-10130823838"
+          ],
+          "count": 1,
+          "distance": 5233.4,
+          "elevation_gain": 30.5,
+          "moving_time": 1890.0
+        },
+        "2023-10-31": {
+          "activity_ids": [
+            "strava-10137069626"
+          ],
+          "count": 1,
+          "distance": 5038.9,
+          "elevation_gain": 31.2,
+          "moving_time": 1669.0
+        },
+        "2023-11-01": {
+          "activity_ids": [
+            "strava-10142804792",
+            "strava-10142805178",
+            "strava-10142984264",
+            "strava-10143091520"
+          ],
+          "count": 4,
+          "distance": 10533.0,
+          "elevation_gain": 55.29999999999999,
+          "moving_time": 3589.0
+        },
+        "2023-11-04": {
+          "activity_ids": [
+            "strava-10160036294"
+          ],
+          "count": 1,
+          "distance": 5023.9,
+          "elevation_gain": 29.6,
+          "moving_time": 1584.0
+        },
+        "2023-11-07": {
+          "activity_ids": [
+            "strava-10177008718"
+          ],
+          "count": 1,
+          "distance": 3018.8,
+          "elevation_gain": 18.6,
+          "moving_time": 887.0
+        },
+        "2023-11-10": {
+          "activity_ids": [
+            "strava-10193699791"
+          ],
+          "count": 1,
+          "distance": 1546.2,
+          "elevation_gain": 17.1,
+          "moving_time": 397.0
+        },
+        "2023-11-13": {
+          "activity_ids": [
+            "strava-10211418390"
+          ],
+          "count": 1,
+          "distance": 1556.9,
+          "elevation_gain": 16.6,
+          "moving_time": 425.0
+        },
+        "2023-11-15": {
+          "activity_ids": [
+            "strava-10220069475"
+          ],
+          "count": 1,
+          "distance": 3020.7,
+          "elevation_gain": 13.8,
+          "moving_time": 896.0
+        },
+        "2023-11-16": {
+          "activity_ids": [
+            "strava-10226098040"
+          ],
+          "count": 1,
+          "distance": 5018.5,
+          "elevation_gain": 22.4,
+          "moving_time": 1585.0
+        },
+        "2023-11-17": {
+          "activity_ids": [
+            "strava-10234544740"
+          ],
+          "count": 1,
+          "distance": 2028.4,
+          "elevation_gain": 25.1,
+          "moving_time": 571.0
+        },
+        "2023-11-21": {
+          "activity_ids": [
+            "strava-10257212140"
+          ],
+          "count": 1,
+          "distance": 5017.6,
+          "elevation_gain": 34.7,
+          "moving_time": 1657.0
+        },
+        "2023-11-22": {
+          "activity_ids": [
+            "strava-10262685885"
+          ],
+          "count": 1,
+          "distance": 1459.6,
+          "elevation_gain": 16.0,
+          "moving_time": 422.0
+        },
+        "2023-11-25": {
+          "activity_ids": [
+            "strava-10279823365"
+          ],
+          "count": 1,
+          "distance": 1019.2,
+          "elevation_gain": 12.9,
+          "moving_time": 267.0
+        },
+        "2023-11-26": {
+          "activity_ids": [
+            "strava-10286025660"
+          ],
+          "count": 1,
+          "distance": 2286.9,
+          "elevation_gain": 23.6,
+          "moving_time": 730.0
+        },
+        "2023-11-27": {
+          "activity_ids": [
+            "strava-10290170582"
+          ],
+          "count": 1,
+          "distance": 3140.1,
+          "elevation_gain": 21.4,
+          "moving_time": 1012.0
+        },
+        "2023-11-28": {
+          "activity_ids": [
+            "strava-10295537022"
+          ],
+          "count": 1,
+          "distance": 4080.8,
+          "elevation_gain": 28.2,
+          "moving_time": 1314.0
+        },
+        "2023-11-29": {
+          "activity_ids": [
+            "strava-10301602703"
+          ],
+          "count": 1,
+          "distance": 5025.6,
+          "elevation_gain": 32.7,
+          "moving_time": 1575.0
+        },
+        "2023-11-30": {
+          "activity_ids": [
+            "strava-10306931199"
+          ],
+          "count": 1,
+          "distance": 4328.2,
+          "elevation_gain": 29.4,
+          "moving_time": 1554.0
+        },
+        "2023-12-01": {
+          "activity_ids": [
+            "strava-10309050045"
+          ],
+          "count": 1,
+          "distance": 7334.3,
+          "elevation_gain": 31.6,
+          "moving_time": 2647.0
+        },
+        "2023-12-02": {
+          "activity_ids": [
+            "strava-10317054638"
+          ],
+          "count": 1,
+          "distance": 1022.7,
+          "elevation_gain": 11.9,
+          "moving_time": 332.0
+        },
+        "2023-12-03": {
+          "activity_ids": [
+            "strava-10322981999"
+          ],
+          "count": 1,
+          "distance": 1026.3,
+          "elevation_gain": 11.9,
+          "moving_time": 330.0
+        },
+        "2023-12-04": {
+          "activity_ids": [
+            "strava-10327233991"
+          ],
+          "count": 1,
+          "distance": 1024.6,
+          "elevation_gain": 12.6,
+          "moving_time": 317.0
+        },
+        "2023-12-05": {
+          "activity_ids": [
+            "strava-10332748337"
+          ],
+          "count": 1,
+          "distance": 2022.2,
+          "elevation_gain": 20.4,
+          "moving_time": 716.0
+        },
+        "2023-12-06": {
+          "activity_ids": [
+            "strava-10338059782"
+          ],
+          "count": 1,
+          "distance": 1016.3,
+          "elevation_gain": 11.9,
+          "moving_time": 294.0
+        },
+        "2023-12-07": {
+          "activity_ids": [
+            "strava-10343695122"
+          ],
+          "count": 1,
+          "distance": 1025.4,
+          "elevation_gain": 11.1,
+          "moving_time": 274.0
+        },
+        "2023-12-08": {
+          "activity_ids": [
+            "strava-10348935563"
+          ],
+          "count": 1,
+          "distance": 2520.9,
+          "elevation_gain": 18.5,
+          "moving_time": 775.0
+        },
+        "2023-12-09": {
+          "activity_ids": [
+            "strava-10353847938"
+          ],
+          "count": 1,
+          "distance": 4017.7,
+          "elevation_gain": 33.2,
+          "moving_time": 1382.0
+        },
+        "2023-12-10": {
+          "activity_ids": [
+            "strava-10356093390"
+          ],
+          "count": 1,
+          "distance": 4259.2,
+          "elevation_gain": 26.6,
+          "moving_time": 1307.0
+        },
+        "2023-12-11": {
+          "activity_ids": [
+            "strava-10363301247"
+          ],
+          "count": 1,
+          "distance": 4022.1,
+          "elevation_gain": 29.5,
+          "moving_time": 1248.0
+        },
+        "2023-12-14": {
+          "activity_ids": [
+            "strava-10379353669"
+          ],
+          "count": 1,
+          "distance": 6427.7,
+          "elevation_gain": 36.5,
+          "moving_time": 2172.0
+        },
+        "2023-12-16": {
+          "activity_ids": [
+            "strava-10389164539"
+          ],
+          "count": 1,
+          "distance": 11024.5,
+          "elevation_gain": 58.1,
+          "moving_time": 3613.0
+        },
+        "2023-12-19": {
+          "activity_ids": [
+            "strava-10405078269"
+          ],
+          "count": 1,
+          "distance": 5067.0,
+          "elevation_gain": 34.7,
+          "moving_time": 1648.0
+        },
+        "2023-12-20": {
+          "activity_ids": [
+            "strava-10410365754"
+          ],
+          "count": 1,
+          "distance": 22530.2,
+          "elevation_gain": 105.8,
+          "moving_time": 8588.0
+        },
+        "2023-12-23": {
+          "activity_ids": [
+            "strava-10425492191"
+          ],
+          "count": 1,
+          "distance": 12346.2,
+          "elevation_gain": 63.3,
+          "moving_time": 4683.0
+        },
+        "2023-12-24": {
+          "activity_ids": [
+            "strava-10430982549"
+          ],
+          "count": 1,
+          "distance": 3524.5,
+          "elevation_gain": 24.3,
+          "moving_time": 1134.0
+        },
+        "2023-12-27": {
+          "activity_ids": [
+            "strava-10445950280"
+          ],
+          "count": 1,
+          "distance": 12033.3,
+          "elevation_gain": 57.6,
+          "moving_time": 4064.0
+        },
+        "2023-12-28": {
+          "activity_ids": [
+            "strava-10451703570"
+          ],
+          "count": 1,
+          "distance": 14122.1,
+          "elevation_gain": 84.8,
+          "moving_time": 5125.0
+        },
+        "2023-12-30": {
+          "activity_ids": [
+            "strava-10459491485",
+            "strava-10462455778"
+          ],
+          "count": 2,
+          "distance": 15602.4,
+          "elevation_gain": 101.3,
+          "moving_time": 5717.0
+        },
+        "2023-12-31": {
+          "activity_ids": [
+            "strava-10466757332"
+          ],
+          "count": 1,
+          "distance": 5308.6,
+          "elevation_gain": 36.9,
+          "moving_time": 1893.0
+        }
+      },
+      "Walk": {
+        "2023-07-14": {
+          "activity_ids": [
+            "strava-9447894686"
+          ],
+          "count": 1,
+          "distance": 2511.2,
+          "elevation_gain": 11.4,
+          "moving_time": 1626.0
+        },
+        "2023-07-28": {
+          "activity_ids": [
+            "strava-9537653723",
+            "strava-9538538279"
+          ],
+          "count": 2,
+          "distance": 8019.2,
+          "elevation_gain": 44.9,
+          "moving_time": 5925.0
+        },
+        "2023-07-30": {
+          "activity_ids": [
+            "strava-9551345151"
+          ],
+          "count": 1,
+          "distance": 6999.7,
+          "elevation_gain": 40.4,
+          "moving_time": 5701.0
+        },
+        "2023-08-03": {
+          "activity_ids": [
+            "strava-9578148623"
+          ],
+          "count": 1,
+          "distance": 1998.1,
+          "elevation_gain": 15.6,
+          "moving_time": 1811.0
+        },
+        "2023-08-12": {
+          "activity_ids": [
+            "strava-9631593674"
+          ],
+          "count": 1,
+          "distance": 1192.6,
+          "elevation_gain": 11.2,
+          "moving_time": 1220.0
+        },
+        "2023-09-29": {
+          "activity_ids": [
+            "strava-9943926548"
+          ],
+          "count": 1,
+          "distance": 2016.3,
+          "elevation_gain": 7.0,
+          "moving_time": 1613.0
+        },
+        "2023-10-04": {
+          "activity_ids": [
+            "strava-9975886473"
+          ],
+          "count": 1,
+          "distance": 764.5,
+          "elevation_gain": 7.6,
+          "moving_time": 679.0
+        },
+        "2023-10-10": {
+          "activity_ids": [
+            "strava-10030007674"
+          ],
+          "count": 1,
+          "distance": 1567.0,
+          "elevation_gain": 7.6,
+          "moving_time": 1200.0
+        },
+        "2023-10-11": {
+          "activity_ids": [
+            "strava-10030007874"
+          ],
+          "count": 1,
+          "distance": 739.7,
+          "elevation_gain": 0.0,
+          "moving_time": 665.0
+        },
+        "2023-10-31": {
+          "activity_ids": [
+            "strava-10137410117"
+          ],
+          "count": 1,
+          "distance": 1798.6,
+          "elevation_gain": 2.1,
+          "moving_time": 1484.0
+        },
+        "2023-12-10": {
+          "activity_ids": [
+            "strava-10356247236",
+            "strava-10358434629"
+          ],
+          "count": 2,
+          "distance": 11038.7,
+          "elevation_gain": 34.8,
+          "moving_time": 6701.0
+        },
+        "2023-12-26": {
+          "activity_ids": [
+            "strava-10440391495"
+          ],
+          "count": 1,
+          "distance": 1002.2,
+          "elevation_gain": 2.8,
+          "moving_time": 791.0
+        },
+        "2023-12-28": {
+          "activity_ids": [
+            "strava-10448927564",
+            "strava-10451924464"
+          ],
+          "count": 2,
+          "distance": 8370.2,
+          "elevation_gain": 25.4,
+          "moving_time": 6872.0
+        }
+      },
+      "Workout": {
+        "2023-07-25": {
+          "activity_ids": [
+            "strava-9518646749"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 964.0
+        },
+        "2023-08-01": {
+          "activity_ids": [
+            "strava-9558965701",
+            "strava-9562358300"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1449.0
+        },
+        "2023-08-02": {
+          "activity_ids": [
+            "strava-9568531765"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1284.0
+        },
+        "2023-08-03": {
+          "activity_ids": [
+            "strava-9572224417",
+            "strava-9578148416"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2887.0
+        },
+        "2023-08-04": {
+          "activity_ids": [
+            "strava-9578837744",
+            "strava-9584004940"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2132.0
+        },
+        "2023-08-11": {
+          "activity_ids": [
+            "strava-9626290296"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 981.0
+        },
+        "2023-09-25": {
+          "activity_ids": [
+            "strava-9915501591",
+            "strava-9916976105"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3038.0
+        },
+        "2023-09-26": {
+          "activity_ids": [
+            "strava-9923110207"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1145.0
+        }
+      }
+    },
     "2024": {
       "Ride": {
         "2024-07-18": {
@@ -2808,6 +6321,1085 @@
         }
       },
       "Run": {
+        "2024-01-05": {
+          "activity_ids": [
+            "strava-10495796061",
+            "strava-10499660533"
+          ],
+          "count": 2,
+          "distance": 19191.3,
+          "elevation_gain": 99.1,
+          "moving_time": 7180.0
+        },
+        "2024-01-06": {
+          "activity_ids": [
+            "strava-10501829692",
+            "strava-10506232058"
+          ],
+          "count": 2,
+          "distance": 17828.8,
+          "elevation_gain": 102.6,
+          "moving_time": 7304.0
+        },
+        "2024-01-10": {
+          "activity_ids": [
+            "strava-10531648168"
+          ],
+          "count": 1,
+          "distance": 9034.9,
+          "elevation_gain": 56.6,
+          "moving_time": 3025.0
+        },
+        "2024-01-11": {
+          "activity_ids": [
+            "strava-10537979396"
+          ],
+          "count": 1,
+          "distance": 16027.7,
+          "elevation_gain": 85.0,
+          "moving_time": 6131.0
+        },
+        "2024-01-12": {
+          "activity_ids": [
+            "strava-10545108326"
+          ],
+          "count": 1,
+          "distance": 17122.1,
+          "elevation_gain": 92.5,
+          "moving_time": 6216.0
+        },
+        "2024-01-13": {
+          "activity_ids": [
+            "strava-10551914938"
+          ],
+          "count": 1,
+          "distance": 8171.1,
+          "elevation_gain": 37.6,
+          "moving_time": 2722.0
+        },
+        "2024-01-14": {
+          "activity_ids": [
+            "strava-10558003811"
+          ],
+          "count": 1,
+          "distance": 5328.0,
+          "elevation_gain": 28.9,
+          "moving_time": 1918.0
+        },
+        "2024-01-17": {
+          "activity_ids": [
+            "strava-10577150201"
+          ],
+          "count": 1,
+          "distance": 16396.4,
+          "elevation_gain": 81.9,
+          "moving_time": 6001.0
+        },
+        "2024-01-18": {
+          "activity_ids": [
+            "strava-10583303236",
+            "strava-10583448674"
+          ],
+          "count": 2,
+          "distance": 11585.2,
+          "elevation_gain": 54.3,
+          "moving_time": 3932.0
+        },
+        "2024-01-19": {
+          "activity_ids": [
+            "strava-10589105407",
+            "strava-10589202814"
+          ],
+          "count": 2,
+          "distance": 15497.1,
+          "elevation_gain": 94.5,
+          "moving_time": 5618.0
+        },
+        "2024-01-20": {
+          "activity_ids": [
+            "strava-10594018274"
+          ],
+          "count": 1,
+          "distance": 2017.6,
+          "elevation_gain": 24.4,
+          "moving_time": 855.0
+        },
+        "2024-01-21": {
+          "activity_ids": [
+            "strava-10598337161"
+          ],
+          "count": 1,
+          "distance": 21483.6,
+          "elevation_gain": 142.8,
+          "moving_time": 8799.0
+        },
+        "2024-01-24": {
+          "activity_ids": [
+            "strava-10622173675"
+          ],
+          "count": 1,
+          "distance": 31122.2,
+          "elevation_gain": 172.0,
+          "moving_time": 11583.0
+        },
+        "2024-01-25": {
+          "activity_ids": [
+            "strava-10628583763"
+          ],
+          "count": 1,
+          "distance": 11437.2,
+          "elevation_gain": 52.3,
+          "moving_time": 4280.0
+        },
+        "2024-01-26": {
+          "activity_ids": [
+            "strava-10633932188"
+          ],
+          "count": 1,
+          "distance": 11537.8,
+          "elevation_gain": 67.8,
+          "moving_time": 5208.0
+        },
+        "2024-01-27": {
+          "activity_ids": [
+            "strava-10636700333",
+            "strava-10636837743"
+          ],
+          "count": 2,
+          "distance": 16552.8,
+          "elevation_gain": 97.0,
+          "moving_time": 6908.0
+        },
+        "2024-01-29": {
+          "activity_ids": [
+            "strava-10655046592"
+          ],
+          "count": 1,
+          "distance": 11236.8,
+          "elevation_gain": 64.8,
+          "moving_time": 3973.0
+        },
+        "2024-01-30": {
+          "activity_ids": [
+            "strava-10662423572"
+          ],
+          "count": 1,
+          "distance": 16171.0,
+          "elevation_gain": 96.2,
+          "moving_time": 5988.0
+        },
+        "2024-01-31": {
+          "activity_ids": [
+            "strava-10669073031"
+          ],
+          "count": 1,
+          "distance": 22109.5,
+          "elevation_gain": 127.7,
+          "moving_time": 8533.0
+        },
+        "2024-02-01": {
+          "activity_ids": [
+            "strava-10675451897"
+          ],
+          "count": 1,
+          "distance": 13555.4,
+          "elevation_gain": 82.4,
+          "moving_time": 5965.0
+        },
+        "2024-02-02": {
+          "activity_ids": [
+            "strava-10681651527"
+          ],
+          "count": 1,
+          "distance": 12548.9,
+          "elevation_gain": 84.5,
+          "moving_time": 4573.0
+        },
+        "2024-02-03": {
+          "activity_ids": [
+            "strava-10689136570"
+          ],
+          "count": 1,
+          "distance": 15629.5,
+          "elevation_gain": 86.0,
+          "moving_time": 5584.0
+        },
+        "2024-02-05": {
+          "activity_ids": [
+            "strava-10701867252"
+          ],
+          "count": 1,
+          "distance": 16280.7,
+          "elevation_gain": 100.6,
+          "moving_time": 5429.0
+        },
+        "2024-02-06": {
+          "activity_ids": [
+            "strava-10708624146"
+          ],
+          "count": 1,
+          "distance": 18524.7,
+          "elevation_gain": 96.2,
+          "moving_time": 7675.0
+        },
+        "2024-02-08": {
+          "activity_ids": [
+            "strava-10721566852",
+            "strava-10722033252",
+            "strava-10722485685"
+          ],
+          "count": 3,
+          "distance": 20579.2,
+          "elevation_gain": 125.7,
+          "moving_time": 7848.0
+        },
+        "2024-02-09": {
+          "activity_ids": [
+            "strava-10728910600"
+          ],
+          "count": 1,
+          "distance": 21521.3,
+          "elevation_gain": 135.7,
+          "moving_time": 8110.0
+        },
+        "2024-02-10": {
+          "activity_ids": [
+            "strava-10734795973"
+          ],
+          "count": 1,
+          "distance": 5244.5,
+          "elevation_gain": 31.0,
+          "moving_time": 2153.0
+        },
+        "2024-02-11": {
+          "activity_ids": [
+            "strava-10742685551"
+          ],
+          "count": 1,
+          "distance": 11573.5,
+          "elevation_gain": 70.2,
+          "moving_time": 4443.0
+        },
+        "2024-02-13": {
+          "activity_ids": [
+            "strava-10755476245"
+          ],
+          "count": 1,
+          "distance": 23023.1,
+          "elevation_gain": 127.0,
+          "moving_time": 8127.0
+        },
+        "2024-02-15": {
+          "activity_ids": [
+            "strava-10768449304"
+          ],
+          "count": 1,
+          "distance": 35524.6,
+          "elevation_gain": 203.6,
+          "moving_time": 12562.0
+        },
+        "2024-02-16": {
+          "activity_ids": [
+            "strava-10774001242"
+          ],
+          "count": 1,
+          "distance": 6165.3,
+          "elevation_gain": 36.3,
+          "moving_time": 2644.0
+        },
+        "2024-02-21": {
+          "activity_ids": [
+            "strava-10808011814"
+          ],
+          "count": 1,
+          "distance": 6525.0,
+          "elevation_gain": 34.7,
+          "moving_time": 2310.0
+        },
+        "2024-02-22": {
+          "activity_ids": [
+            "strava-10815198403"
+          ],
+          "count": 1,
+          "distance": 10085.5,
+          "elevation_gain": 59.3,
+          "moving_time": 3163.0
+        },
+        "2024-02-23": {
+          "activity_ids": [
+            "strava-10820855656"
+          ],
+          "count": 1,
+          "distance": 6036.3,
+          "elevation_gain": 33.5,
+          "moving_time": 2142.0
+        },
+        "2024-02-24": {
+          "activity_ids": [
+            "strava-10827772647"
+          ],
+          "count": 1,
+          "distance": 3048.6,
+          "elevation_gain": 35.5,
+          "moving_time": 884.0
+        },
+        "2024-02-29": {
+          "activity_ids": [
+            "strava-10861813701"
+          ],
+          "count": 1,
+          "distance": 5315.1,
+          "elevation_gain": 29.4,
+          "moving_time": 1915.0
+        },
+        "2024-03-01": {
+          "activity_ids": [
+            "strava-12219716004"
+          ],
+          "count": 1,
+          "distance": 6060.0,
+          "elevation_gain": 37.0,
+          "moving_time": 2056.0
+        },
+        "2024-03-02": {
+          "activity_ids": [
+            "strava-10875749033"
+          ],
+          "count": 1,
+          "distance": 7058.0,
+          "elevation_gain": 45.5,
+          "moving_time": 2358.0
+        },
+        "2024-03-03": {
+          "activity_ids": [
+            "strava-10882785213"
+          ],
+          "count": 1,
+          "distance": 11055.2,
+          "elevation_gain": 67.8,
+          "moving_time": 3825.0
+        },
+        "2024-03-04": {
+          "activity_ids": [
+            "strava-10888166192",
+            "strava-10889267899"
+          ],
+          "count": 2,
+          "distance": 14253.900000000001,
+          "elevation_gain": 75.19999999999999,
+          "moving_time": 5467.0
+        },
+        "2024-03-05": {
+          "activity_ids": [
+            "strava-10896702273"
+          ],
+          "count": 1,
+          "distance": 19049.5,
+          "elevation_gain": 120.0,
+          "moving_time": 6713.0
+        },
+        "2024-03-06": {
+          "activity_ids": [
+            "strava-10903918015"
+          ],
+          "count": 1,
+          "distance": 13558.2,
+          "elevation_gain": 82.8,
+          "moving_time": 4710.0
+        },
+        "2024-03-07": {
+          "activity_ids": [
+            "strava-10911527754"
+          ],
+          "count": 1,
+          "distance": 15534.2,
+          "elevation_gain": 92.4,
+          "moving_time": 5980.0
+        },
+        "2024-03-08": {
+          "activity_ids": [
+            "strava-10913830925",
+            "strava-10917593747"
+          ],
+          "count": 2,
+          "distance": 16172.3,
+          "elevation_gain": 118.0,
+          "moving_time": 6059.0
+        },
+        "2024-03-09": {
+          "activity_ids": [
+            "strava-10924589861"
+          ],
+          "count": 1,
+          "distance": 12347.8,
+          "elevation_gain": 66.1,
+          "moving_time": 4458.0
+        },
+        "2024-03-10": {
+          "activity_ids": [
+            "strava-10932440795"
+          ],
+          "count": 1,
+          "distance": 5276.6,
+          "elevation_gain": 34.4,
+          "moving_time": 1922.0
+        },
+        "2024-03-11": {
+          "activity_ids": [
+            "strava-10936913600"
+          ],
+          "count": 1,
+          "distance": 6318.6,
+          "elevation_gain": 40.9,
+          "moving_time": 2474.0
+        },
+        "2024-03-13": {
+          "activity_ids": [
+            "strava-10950550331",
+            "strava-10952733683"
+          ],
+          "count": 2,
+          "distance": 12628.2,
+          "elevation_gain": 97.7,
+          "moving_time": 4916.0
+        },
+        "2024-03-14": {
+          "activity_ids": [
+            "strava-10958698639"
+          ],
+          "count": 1,
+          "distance": 16022.0,
+          "elevation_gain": 107.2,
+          "moving_time": 5533.0
+        },
+        "2024-03-15": {
+          "activity_ids": [
+            "strava-10966969401"
+          ],
+          "count": 1,
+          "distance": 37027.2,
+          "elevation_gain": 269.0,
+          "moving_time": 14039.0
+        },
+        "2024-03-16": {
+          "activity_ids": [
+            "strava-10973142317"
+          ],
+          "count": 1,
+          "distance": 1331.2,
+          "elevation_gain": 10.2,
+          "moving_time": 658.0
+        },
+        "2024-03-17": {
+          "activity_ids": [
+            "strava-10977378809",
+            "strava-10979199018",
+            "strava-10981645874"
+          ],
+          "count": 3,
+          "distance": 25433.2,
+          "elevation_gain": 149.0,
+          "moving_time": 11543.0
+        },
+        "2024-03-18": {
+          "activity_ids": [
+            "strava-10982371070",
+            "strava-10988025787"
+          ],
+          "count": 2,
+          "distance": 20339.800000000003,
+          "elevation_gain": 170.1,
+          "moving_time": 7756.0
+        },
+        "2024-03-19": {
+          "activity_ids": [
+            "strava-10991021018"
+          ],
+          "count": 1,
+          "distance": 1872.1,
+          "elevation_gain": 12.1,
+          "moving_time": 3022.0
+        },
+        "2024-03-26": {
+          "activity_ids": [
+            "strava-11042671954"
+          ],
+          "count": 1,
+          "distance": 6200.1,
+          "elevation_gain": 61.9,
+          "moving_time": 2189.0
+        },
+        "2024-03-27": {
+          "activity_ids": [
+            "strava-11050064783"
+          ],
+          "count": 1,
+          "distance": 3675.9,
+          "elevation_gain": 26.3,
+          "moving_time": 1215.0
+        },
+        "2024-04-01": {
+          "activity_ids": [
+            "strava-11085392468"
+          ],
+          "count": 1,
+          "distance": 10631.9,
+          "elevation_gain": 78.4,
+          "moving_time": 3567.0
+        },
+        "2024-04-02": {
+          "activity_ids": [
+            "strava-11092178769"
+          ],
+          "count": 1,
+          "distance": 16512.6,
+          "elevation_gain": 96.1,
+          "moving_time": 6220.0
+        },
+        "2024-04-03": {
+          "activity_ids": [
+            "strava-11098918780"
+          ],
+          "count": 1,
+          "distance": 6243.9,
+          "elevation_gain": 60.3,
+          "moving_time": 2639.0
+        },
+        "2024-04-13": {
+          "activity_ids": [
+            "strava-11171433638"
+          ],
+          "count": 1,
+          "distance": 2597.3,
+          "elevation_gain": 106.0,
+          "moving_time": 1514.0
+        },
+        "2024-04-16": {
+          "activity_ids": [
+            "strava-11196943330"
+          ],
+          "count": 1,
+          "distance": 12536.2,
+          "elevation_gain": 105.6,
+          "moving_time": 4563.0
+        },
+        "2024-04-17": {
+          "activity_ids": [
+            "strava-11204107854"
+          ],
+          "count": 1,
+          "distance": 10255.6,
+          "elevation_gain": 76.5,
+          "moving_time": 3742.0
+        },
+        "2024-04-21": {
+          "activity_ids": [
+            "strava-11228444333"
+          ],
+          "count": 1,
+          "distance": 21458.5,
+          "elevation_gain": 133.8,
+          "moving_time": 7235.0
+        },
+        "2024-04-27": {
+          "activity_ids": [
+            "strava-11274877366",
+            "strava-11274877661"
+          ],
+          "count": 2,
+          "distance": 2161.7999999999997,
+          "elevation_gain": 56.8,
+          "moving_time": 1708.0
+        },
+        "2024-04-28": {
+          "activity_ids": [
+            "strava-11278971216"
+          ],
+          "count": 1,
+          "distance": 20167.0,
+          "elevation_gain": 153.9,
+          "moving_time": 8240.0
+        },
+        "2024-04-29": {
+          "activity_ids": [
+            "strava-11291791370"
+          ],
+          "count": 1,
+          "distance": 4095.6,
+          "elevation_gain": 36.1,
+          "moving_time": 1633.0
+        },
+        "2024-04-30": {
+          "activity_ids": [
+            "strava-11300610841"
+          ],
+          "count": 1,
+          "distance": 5080.4,
+          "elevation_gain": 32.4,
+          "moving_time": 1944.0
+        },
+        "2024-05-06": {
+          "activity_ids": [
+            "strava-11342212128"
+          ],
+          "count": 1,
+          "distance": 5025.6,
+          "elevation_gain": 49.5,
+          "moving_time": 1625.0
+        },
+        "2024-05-07": {
+          "activity_ids": [
+            "strava-11349303604"
+          ],
+          "count": 1,
+          "distance": 7117.4,
+          "elevation_gain": 61.6,
+          "moving_time": 2432.0
+        },
+        "2024-05-08": {
+          "activity_ids": [
+            "strava-11357334578"
+          ],
+          "count": 1,
+          "distance": 6459.8,
+          "elevation_gain": 39.8,
+          "moving_time": 2649.0
+        },
+        "2024-05-09": {
+          "activity_ids": [
+            "strava-11365375007"
+          ],
+          "count": 1,
+          "distance": 10688.3,
+          "elevation_gain": 73.0,
+          "moving_time": 3873.0
+        },
+        "2024-05-10": {
+          "activity_ids": [
+            "strava-11373634034"
+          ],
+          "count": 1,
+          "distance": 8524.7,
+          "elevation_gain": 64.0,
+          "moving_time": 3002.0
+        },
+        "2024-05-12": {
+          "activity_ids": [
+            "strava-11389295002"
+          ],
+          "count": 1,
+          "distance": 7058.6,
+          "elevation_gain": 33.1,
+          "moving_time": 2499.0
+        },
+        "2024-05-13": {
+          "activity_ids": [
+            "strava-11397352001"
+          ],
+          "count": 1,
+          "distance": 7143.3,
+          "elevation_gain": 70.0,
+          "moving_time": 2612.0
+        },
+        "2024-05-14": {
+          "activity_ids": [
+            "strava-11404867199"
+          ],
+          "count": 1,
+          "distance": 10364.6,
+          "elevation_gain": 79.9,
+          "moving_time": 3757.0
+        },
+        "2024-05-15": {
+          "activity_ids": [
+            "strava-11413064134"
+          ],
+          "count": 1,
+          "distance": 11228.1,
+          "elevation_gain": 103.5,
+          "moving_time": 4030.0
+        },
+        "2024-05-19": {
+          "activity_ids": [
+            "strava-11448936192",
+            "strava-11448936293"
+          ],
+          "count": 2,
+          "distance": 21230.6,
+          "elevation_gain": 130.20000000000002,
+          "moving_time": 7585.0
+        },
+        "2024-05-20": {
+          "activity_ids": [
+            "strava-11455952743"
+          ],
+          "count": 1,
+          "distance": 5009.9,
+          "elevation_gain": 34.8,
+          "moving_time": 3277.0
+        },
+        "2024-05-21": {
+          "activity_ids": [
+            "strava-11463759375"
+          ],
+          "count": 1,
+          "distance": 5190.0,
+          "elevation_gain": 31.9,
+          "moving_time": 2049.0
+        },
+        "2024-05-22": {
+          "activity_ids": [
+            "strava-11467558820"
+          ],
+          "count": 1,
+          "distance": 6076.1,
+          "elevation_gain": 57.3,
+          "moving_time": 2418.0
+        },
+        "2024-05-23": {
+          "activity_ids": [
+            "strava-11475383470"
+          ],
+          "count": 1,
+          "distance": 8533.1,
+          "elevation_gain": 77.2,
+          "moving_time": 3223.0
+        },
+        "2024-05-24": {
+          "activity_ids": [
+            "strava-11483065733",
+            "strava-11487034898"
+          ],
+          "count": 2,
+          "distance": 21076.5,
+          "elevation_gain": 138.5,
+          "moving_time": 8381.0
+        },
+        "2024-05-25": {
+          "activity_ids": [
+            "strava-11490310400",
+            "strava-11490310620",
+            "strava-11490310733",
+            "strava-11494823779"
+          ],
+          "count": 4,
+          "distance": 22404.500000000004,
+          "elevation_gain": 145.3,
+          "moving_time": 9760.0
+        },
+        "2024-05-26": {
+          "activity_ids": [
+            "strava-11497977980"
+          ],
+          "count": 1,
+          "distance": 10033.1,
+          "elevation_gain": 48.0,
+          "moving_time": 4612.0
+        },
+        "2024-05-27": {
+          "activity_ids": [
+            "strava-11506104042"
+          ],
+          "count": 1,
+          "distance": 12271.2,
+          "elevation_gain": 57.8,
+          "moving_time": 4933.0
+        },
+        "2024-05-28": {
+          "activity_ids": [
+            "strava-11513495948",
+            "strava-11517023143",
+            "strava-11517023800"
+          ],
+          "count": 3,
+          "distance": 20738.800000000003,
+          "elevation_gain": 138.3,
+          "moving_time": 8071.0
+        },
+        "2024-05-29": {
+          "activity_ids": [
+            "strava-11521298307"
+          ],
+          "count": 1,
+          "distance": 10528.2,
+          "elevation_gain": 61.9,
+          "moving_time": 4220.0
+        },
+        "2024-05-30": {
+          "activity_ids": [
+            "strava-11534201317"
+          ],
+          "count": 1,
+          "distance": 26060.6,
+          "elevation_gain": 166.0,
+          "moving_time": 9846.0
+        },
+        "2024-05-31": {
+          "activity_ids": [
+            "strava-11540896399"
+          ],
+          "count": 1,
+          "distance": 9016.2,
+          "elevation_gain": 65.2,
+          "moving_time": 3804.0
+        },
+        "2024-06-02": {
+          "activity_ids": [
+            "strava-11551732395"
+          ],
+          "count": 1,
+          "distance": 7089.3,
+          "elevation_gain": 37.7,
+          "moving_time": 2583.0
+        },
+        "2024-06-03": {
+          "activity_ids": [
+            "strava-11560092771"
+          ],
+          "count": 1,
+          "distance": 7323.4,
+          "elevation_gain": 47.1,
+          "moving_time": 2635.0
+        },
+        "2024-06-04": {
+          "activity_ids": [
+            "strava-11567481383"
+          ],
+          "count": 1,
+          "distance": 9024.0,
+          "elevation_gain": 75.0,
+          "moving_time": 3299.0
+        },
+        "2024-06-06": {
+          "activity_ids": [
+            "strava-11589484448"
+          ],
+          "count": 1,
+          "distance": 7207.8,
+          "elevation_gain": 48.4,
+          "moving_time": 2497.0
+        },
+        "2024-06-07": {
+          "activity_ids": [
+            "strava-11592404697",
+            "strava-11596378397"
+          ],
+          "count": 2,
+          "distance": 12326.3,
+          "elevation_gain": 64.8,
+          "moving_time": 4655.0
+        },
+        "2024-06-08": {
+          "activity_ids": [
+            "strava-11599512541",
+            "strava-11599709720",
+            "strava-11599866287"
+          ],
+          "count": 3,
+          "distance": 21939.199999999997,
+          "elevation_gain": 169.0,
+          "moving_time": 7967.0
+        },
+        "2024-06-09": {
+          "activity_ids": [
+            "strava-11607777146"
+          ],
+          "count": 1,
+          "distance": 11509.7,
+          "elevation_gain": 65.0,
+          "moving_time": 4187.0
+        },
+        "2024-06-10": {
+          "activity_ids": [
+            "strava-11620036904"
+          ],
+          "count": 1,
+          "distance": 2589.3,
+          "elevation_gain": 18.4,
+          "moving_time": 903.0
+        },
+        "2024-06-11": {
+          "activity_ids": [
+            "strava-11628391015"
+          ],
+          "count": 1,
+          "distance": 5031.0,
+          "elevation_gain": 22.7,
+          "moving_time": 1671.0
+        },
+        "2024-06-12": {
+          "activity_ids": [
+            "strava-11631601879"
+          ],
+          "count": 1,
+          "distance": 11044.5,
+          "elevation_gain": 64.0,
+          "moving_time": 3632.0
+        },
+        "2024-06-14": {
+          "activity_ids": [
+            "strava-11652673806"
+          ],
+          "count": 1,
+          "distance": 5067.5,
+          "elevation_gain": 16.3,
+          "moving_time": 3381.0
+        },
+        "2024-06-15": {
+          "activity_ids": [
+            "strava-11654572985",
+            "strava-11658648905"
+          ],
+          "count": 2,
+          "distance": 8612.0,
+          "elevation_gain": 34.900000000000006,
+          "moving_time": 3464.0
+        },
+        "2024-06-21": {
+          "activity_ids": [
+            "strava-11701415146",
+            "strava-12219677367"
+          ],
+          "count": 2,
+          "distance": 20514.5,
+          "elevation_gain": 115.4,
+          "moving_time": 7175.0
+        },
+        "2024-06-22": {
+          "activity_ids": [
+            "strava-11708621060",
+            "strava-11708621267",
+            "strava-11708621533"
+          ],
+          "count": 3,
+          "distance": 18246.9,
+          "elevation_gain": 108.6,
+          "moving_time": 6868.0
+        },
+        "2024-06-23": {
+          "activity_ids": [
+            "strava-11722241725"
+          ],
+          "count": 1,
+          "distance": 13532.5,
+          "elevation_gain": 80.1,
+          "moving_time": 4847.0
+        },
+        "2024-06-25": {
+          "activity_ids": [
+            "strava-11737227876"
+          ],
+          "count": 1,
+          "distance": 6106.0,
+          "elevation_gain": 51.6,
+          "moving_time": 2088.0
+        },
+        "2024-06-27": {
+          "activity_ids": [
+            "strava-11753834166"
+          ],
+          "count": 1,
+          "distance": 11575.2,
+          "elevation_gain": 74.3,
+          "moving_time": 4039.0
+        },
+        "2024-06-28": {
+          "activity_ids": [
+            "strava-11761256229"
+          ],
+          "count": 1,
+          "distance": 5605.2,
+          "elevation_gain": 37.9,
+          "moving_time": 2131.0
+        },
+        "2024-06-29": {
+          "activity_ids": [
+            "strava-11763274175",
+            "strava-11763458684",
+            "strava-11763697278",
+            "strava-11769176392"
+          ],
+          "count": 4,
+          "distance": 24168.0,
+          "elevation_gain": 105.7,
+          "moving_time": 8940.0
+        },
+        "2024-06-30": {
+          "activity_ids": [
+            "strava-11777039809"
+          ],
+          "count": 1,
+          "distance": 4052.0,
+          "elevation_gain": 30.1,
+          "moving_time": 1452.0
+        },
+        "2024-07-03": {
+          "activity_ids": [
+            "strava-11799735219"
+          ],
+          "count": 1,
+          "distance": 5388.6,
+          "elevation_gain": 108.5,
+          "moving_time": 2030.0
+        },
+        "2024-07-04": {
+          "activity_ids": [
+            "strava-11802980065"
+          ],
+          "count": 1,
+          "distance": 6295.8,
+          "elevation_gain": 111.7,
+          "moving_time": 2298.0
+        },
+        "2024-07-05": {
+          "activity_ids": [
+            "strava-11815495897"
+          ],
+          "count": 1,
+          "distance": 7549.1,
+          "elevation_gain": 146.8,
+          "moving_time": 3022.0
+        },
+        "2024-07-06": {
+          "activity_ids": [
+            "strava-11823089130"
+          ],
+          "count": 1,
+          "distance": 4027.7,
+          "elevation_gain": 104.7,
+          "moving_time": 1821.0
+        },
+        "2024-07-07": {
+          "activity_ids": [
+            "strava-11826818060",
+            "strava-11827414436",
+            "strava-11828576659",
+            "strava-11830972666"
+          ],
+          "count": 4,
+          "distance": 11696.7,
+          "elevation_gain": 247.60000000000002,
+          "moving_time": 6482.0
+        },
+        "2024-07-08": {
+          "activity_ids": [
+            "strava-11836703560"
+          ],
+          "count": 1,
+          "distance": 3387.1,
+          "elevation_gain": 51.2,
+          "moving_time": 3553.0
+        },
+        "2024-07-11": {
+          "activity_ids": [
+            "strava-11860723996",
+            "strava-11860729257"
+          ],
+          "count": 2,
+          "distance": 2032.2,
+          "elevation_gain": 50.2,
+          "moving_time": 1537.0
+        },
         "2024-07-12": {
           "activity_ids": [
             "16374989869"
@@ -3489,6 +8081,273 @@
         }
       },
       "Walk": {
+        "2024-01-20": {
+          "activity_ids": [
+            "strava-10593851160",
+            "strava-10594250846"
+          ],
+          "count": 2,
+          "distance": 6570.1,
+          "elevation_gain": 47.0,
+          "moving_time": 4823.0
+        },
+        "2024-02-13": {
+          "activity_ids": [
+            "strava-10754076722"
+          ],
+          "count": 1,
+          "distance": 5365.5,
+          "elevation_gain": 28.8,
+          "moving_time": 4017.0
+        },
+        "2024-03-10": {
+          "activity_ids": [
+            "strava-10929210355"
+          ],
+          "count": 1,
+          "distance": 3226.6,
+          "elevation_gain": 13.3,
+          "moving_time": 2253.0
+        },
+        "2024-03-11": {
+          "activity_ids": [
+            "strava-10935108459"
+          ],
+          "count": 1,
+          "distance": 3899.9,
+          "elevation_gain": 14.8,
+          "moving_time": 2149.0
+        },
+        "2024-03-21": {
+          "activity_ids": [
+            "strava-11007356881"
+          ],
+          "count": 1,
+          "distance": 1136.1,
+          "elevation_gain": 3.6,
+          "moving_time": 1028.0
+        },
+        "2024-03-31": {
+          "activity_ids": [
+            "strava-11073836965",
+            "strava-11075997047"
+          ],
+          "count": 2,
+          "distance": 10168.0,
+          "elevation_gain": 51.900000000000006,
+          "moving_time": 9592.0
+        },
+        "2024-04-05": {
+          "activity_ids": [
+            "strava-11110027342",
+            "strava-11111143329"
+          ],
+          "count": 2,
+          "distance": 5387.6,
+          "elevation_gain": 24.8,
+          "moving_time": 4938.0
+        },
+        "2024-04-07": {
+          "activity_ids": [
+            "strava-11125313273"
+          ],
+          "count": 1,
+          "distance": 4452.4,
+          "elevation_gain": 34.1,
+          "moving_time": 3781.0
+        },
+        "2024-04-13": {
+          "activity_ids": [
+            "strava-11171112386"
+          ],
+          "count": 1,
+          "distance": 4937.2,
+          "elevation_gain": 54.1,
+          "moving_time": 2967.0
+        },
+        "2024-04-14": {
+          "activity_ids": [
+            "strava-11180774494"
+          ],
+          "count": 1,
+          "distance": 5576.5,
+          "elevation_gain": 16.4,
+          "moving_time": 5303.0
+        },
+        "2024-04-15": {
+          "activity_ids": [
+            "strava-11187474717"
+          ],
+          "count": 1,
+          "distance": 2728.7,
+          "elevation_gain": 4.9,
+          "moving_time": 1830.0
+        },
+        "2024-04-16": {
+          "activity_ids": [
+            "strava-11195339622"
+          ],
+          "count": 1,
+          "distance": 2289.3,
+          "elevation_gain": 11.4,
+          "moving_time": 1612.0
+        },
+        "2024-04-18": {
+          "activity_ids": [
+            "strava-11208135205"
+          ],
+          "count": 1,
+          "distance": 4754.2,
+          "elevation_gain": 29.9,
+          "moving_time": 4141.0
+        },
+        "2024-04-19": {
+          "activity_ids": [
+            "strava-11215020986"
+          ],
+          "count": 1,
+          "distance": 562.8,
+          "elevation_gain": 5.3,
+          "moving_time": 462.0
+        },
+        "2024-04-20": {
+          "activity_ids": [
+            "strava-11224666915"
+          ],
+          "count": 1,
+          "distance": 2552.4,
+          "elevation_gain": 17.7,
+          "moving_time": 2160.0
+        },
+        "2024-04-21": {
+          "activity_ids": [
+            "strava-11232874987"
+          ],
+          "count": 1,
+          "distance": 10426.5,
+          "elevation_gain": 54.8,
+          "moving_time": 2912.0
+        },
+        "2024-04-25": {
+          "activity_ids": [
+            "strava-11263344365"
+          ],
+          "count": 1,
+          "distance": 2519.2,
+          "elevation_gain": 17.0,
+          "moving_time": 1660.0
+        },
+        "2024-05-01": {
+          "activity_ids": [
+            "strava-11308220024"
+          ],
+          "count": 1,
+          "distance": 7986.9,
+          "elevation_gain": 40.0,
+          "moving_time": 5225.0
+        },
+        "2024-05-25": {
+          "activity_ids": [
+            "strava-11494004496",
+            "strava-11495384521"
+          ],
+          "count": 2,
+          "distance": 2558.9,
+          "elevation_gain": 9.3,
+          "moving_time": 1742.0
+        },
+        "2024-05-26": {
+          "activity_ids": [
+            "strava-11502980338"
+          ],
+          "count": 1,
+          "distance": 2813.5,
+          "elevation_gain": 26.2,
+          "moving_time": 2193.0
+        },
+        "2024-05-27": {
+          "activity_ids": [
+            "strava-11510803411"
+          ],
+          "count": 1,
+          "distance": 1553.2,
+          "elevation_gain": 4.9,
+          "moving_time": 1360.0
+        },
+        "2024-05-30": {
+          "activity_ids": [
+            "strava-11532755181"
+          ],
+          "count": 1,
+          "distance": 2083.4,
+          "elevation_gain": 11.2,
+          "moving_time": 1424.0
+        },
+        "2024-05-31": {
+          "activity_ids": [
+            "strava-11540275114"
+          ],
+          "count": 1,
+          "distance": 5836.3,
+          "elevation_gain": 20.0,
+          "moving_time": 3890.0
+        },
+        "2024-06-01": {
+          "activity_ids": [
+            "strava-11544705766",
+            "strava-11548162211"
+          ],
+          "count": 2,
+          "distance": 5287.9,
+          "elevation_gain": 21.9,
+          "moving_time": 4024.0
+        },
+        "2024-06-09": {
+          "activity_ids": [
+            "strava-11610581094",
+            "strava-11613240327"
+          ],
+          "count": 2,
+          "distance": 5017.0,
+          "elevation_gain": 27.1,
+          "moving_time": 4704.0
+        },
+        "2024-06-12": {
+          "activity_ids": [
+            "strava-11636592055"
+          ],
+          "count": 1,
+          "distance": 4560.8,
+          "elevation_gain": 19.7,
+          "moving_time": 3578.0
+        },
+        "2024-06-25": {
+          "activity_ids": [
+            "strava-11735441923"
+          ],
+          "count": 1,
+          "distance": 5009.9,
+          "elevation_gain": 16.6,
+          "moving_time": 5629.0
+        },
+        "2024-06-28": {
+          "activity_ids": [
+            "strava-11758098998"
+          ],
+          "count": 1,
+          "distance": 2293.7,
+          "elevation_gain": 11.3,
+          "moving_time": 1889.0
+        },
+        "2024-07-02": {
+          "activity_ids": [
+            "strava-11788685480"
+          ],
+          "count": 1,
+          "distance": 1296.9,
+          "elevation_gain": 54.0,
+          "moving_time": 1337.0
+        },
         "2024-07-12": {
           "activity_ids": [
             "16369447270"
@@ -3856,6 +8715,16 @@
         }
       },
       "Workout": {
+        "2024-03-12": {
+          "activity_ids": [
+            "strava-10944239107",
+            "strava-10944707318"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1712.0
+        },
         "2024-11-23": {
           "activity_ids": [
             "17601765670"
@@ -5194,6 +10063,15 @@
           "elevation_gain": 105.0,
           "moving_time": 4518.0
         },
+        "2026-06-08": {
+          "activity_ids": [
+            "strava-18837158490"
+          ],
+          "count": 1,
+          "distance": 12312.6,
+          "elevation_gain": 100.6,
+          "moving_time": 3844.0
+        },
         "2026-06-10": {
           "activity_ids": [
             "23199548507",
@@ -5330,6 +10208,15 @@
           "distance": 3860.7900390625,
           "elevation_gain": 10.0,
           "moving_time": 915.0
+        },
+        "2026-10-05": {
+          "activity_ids": [
+            "strava-20460752730"
+          ],
+          "count": 1,
+          "distance": 13992.8,
+          "elevation_gain": 77.4,
+          "moving_time": 4317.0
         },
         "2026-10-20": {
           "activity_ids": [
@@ -5495,6 +10382,15 @@
           "distance": 3560.0,
           "elevation_gain": 28.0,
           "moving_time": 2395.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "strava-18130488359"
+          ],
+          "count": 1,
+          "distance": 3307.3,
+          "elevation_gain": 64.7,
+          "moving_time": 1347.0
         },
         "2026-04-18": {
           "activity_ids": [
@@ -5931,7 +10827,7 @@
       }
     }
   },
-  "generated_at": "2026-11-26T23:25:39.153267+00:00",
+  "generated_at": "2026-11-27T08:44:00.700801+00:00",
   "other_bucket": "OtherSports",
   "repo": "odilkomilpour/git-sweaty",
   "source": "garmin",
@@ -5990,6 +10886,7 @@
   },
   "week_start": "monday",
   "years": [
+    2023,
     2024,
     2025,
     2026
