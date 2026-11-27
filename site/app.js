@@ -51,6 +51,8 @@ const tooltip = document.getElementById("tooltip");
 const summary = document.getElementById("summary");
 const headerMeta = document.getElementById("headerMeta");
 const headerLinks = document.querySelector(".header-links");
+// Name shown in the header/footer instead of the GitHub owner/repo (links still point to the repo).
+const DISPLAY_NAME = "mountainrunner";
 const repoLink = document.querySelector(".repo-link");
 const stravaProfileLink = document.querySelector(".strava-profile-link");
 const stravaProfileLabel = stravaProfileLink
@@ -343,7 +345,7 @@ function syncRepoLink(fallbackRepo) {
   );
   if (!resolved) return;
   repoLink.href = resolved.href;
-  repoLink.textContent = resolved.text;
+  repoLink.textContent = DISPLAY_NAME || resolved.text;
 }
 
 function syncFooterHostedLink(fallbackRepo) {
@@ -359,7 +361,7 @@ function syncFooterHostedLink(fallbackRepo) {
   );
   if (resolved) {
     footerHostedLink.href = resolved.href;
-    footerHostedLink.textContent = resolved.text;
+    footerHostedLink.textContent = DISPLAY_NAME || resolved.text;
   }
   const footerRepoCandidate = resolved?.text || resolved?.href || footerFallbackRepo;
   if (footerHostedPrefix) {
